@@ -30,7 +30,7 @@ AI-Transit-Fare-Validator/
 │   └── age_net.caffemodel
 │
 ├── requirements.txt
-├── fare_validator.py
+├── transit-fare-validator.py
 └── README.md
 ```
 
